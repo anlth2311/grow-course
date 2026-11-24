@@ -31,7 +31,7 @@ export const SCREENS: Screen[] = [
       opts: ['Only at the annual review.', 'Only when they bring it up.', 'Regularly, in short conversations, plus a few dedicated ones each year.', 'Only when a promotion is available.'],
       correct: 2,
       right: 'Right. Small, regular conversations make the big ones easier, and they let you notice problems early.',
-      wrong: 'Not quite. Waiting for the review or for the employee to ask usually means the conversation starts too late.',
+      wrong: 'Waiting for the review or for the employee to ask usually means the conversation starts too late.',
     },
   },
 
