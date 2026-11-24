@@ -239,7 +239,7 @@ export const SCREENS: Screen[] = [
       opts: ['To fill time.', 'To widen the options and let the employee own the plan.', 'To avoid giving advice.', 'To test Tomás.'],
       correct: 1,
       right: 'Right. "What else?" widens the list, and people own the plans they helped create.',
-      wrong: 'Not quite. Maya did give advice, but only after Tomás had added his own ideas. She wanted more options, and a plan Tomás would own.',
+      wrong: 'Maya did give advice, but only after Tomás had added his own ideas. She wanted more options, and a plan Tomás would own.',
     },
     reflect: { kicker: 'Reflect', prompt: 'Which of these techniques will you try first with someone on your team?', btn: 'Save response' },
   },
@@ -384,7 +384,7 @@ export const SCREENS: Screen[] = [
       opts: ['Because she wanted to end the conversation quickly.', "Because Jonas lacked clear information about the criteria, and questions wouldn't have given it to him.", "Because GROW doesn't work with high performers.", 'Because directive is always better.'],
       correct: 1,
       right: "Right. Jonas didn't know the criteria, so no question would have helped him find them. Inform first, then coach.",
-      wrong: "Not quite. Amara chose to be direct because Jonas was missing information he couldn't find through questions. Once he had it, she switched to coaching.",
+      wrong: "Amara chose to be direct because Jonas was missing information he couldn't find through questions. Once he had it, she switched to coaching.",
     },
     reflect: {
       kicker: 'Reflect', btn: 'Submit', noPeek: true, revealTitle: 'Model answer', reveal: [],
